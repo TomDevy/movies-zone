@@ -1,2 +1,2 @@
 # movies-zone
-A movie app made with react
+A simple movie app made with react, using useState and useEffect primarily.
