@@ -148,6 +148,7 @@ h1 {
 .movie div:nth-of-type(2) img {
     height: 100%;
     width: 100%;
+    object-fit: cover;
 }
 
 .movie div:nth-of-type(3) {
